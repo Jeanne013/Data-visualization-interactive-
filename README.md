@@ -1,5 +1,5 @@
 # Summary
-This project analyzes U.S. mortality data from 2020–2023 to understand how COVID‑19, pneumonia, and influenza deaths vary across states and regions. Using a dataset of over 22,000 records, the project visualizes geographic and temporal patterns through maps, aggregation charts, and interactive dashboards. The main objective was to identify regional differences in COVID‑19 mortality and compare them with other major respiratory illnesses to uncover broader public‑health trends
+This project analyzes U.S. mortality data from 2020–2023 to understand how COVID‑19, pneumonia, and influenza deaths vary across states and regions. Using a dataset of over 22,000 records, the project visualizes geographic and temporal patterns through maps, aggregation charts, and interactive dashboards. The main objective was to identify regional differences in COVID‑19 mortality and compare them with other major respiratory illnesses to uncover broader public‑health trends.
 
 
 # My Role 
@@ -9,15 +9,11 @@ I was responsible for designing and implementing all interactive visualizations 
 
 # Core Responsibilities
 
--Developed two fully interactive visualizations (bubble chart + bar chart) using Python libraries that support dynamic UI elements such as sliders and dropdown menus.
-
--Engineered region‑based filtering to allow users to explore respiratory‑related deaths by year, disease type, and geographic area.
-
--Built interactive dashboards that improved data accessibility and enabled users to compare states and regions in real time.
-
--Optimized user experience by ensuring smooth transitions, intuitive controls, and clear visual encoding of mortality patterns.
-
--Collaborated with the team to align interactive components with the project’s analytical goals and narrative structure.
+-Developed two fully interactive visualizations (bubble chart + bar chart) using Python libraries that support dynamic UI elements such as sliders and dropdown menus
+-Engineered region‑based filtering to allow users to explore respiratory‑related deaths by year, disease type, and geographic area
+-Built interactive dashboards that improved data accessibility and enabled users to compare states and regions in real time
+-Optimized user experience by ensuring smooth transitions, intuitive controls, and clear visual encoding of mortality patterns
+-Collaborated with the team to align interactive components with the project’s analytical goals and narrative structure
 
 
 ## Technical Implementation
